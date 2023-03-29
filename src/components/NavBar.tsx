@@ -47,7 +47,7 @@ const NavBarView = ( {setView} : any) => {
   }
 
   const openResume = () => {
-    window.open('https://docs.google.com/document/d/1KQaa-Psw143yrk2yddweDUbYjTWZiLxv9w0GMqFhl4A/edit?usp=sharing', '_blank')
+    window.open('https://drive.google.com/file/d/1TlslGCpYYpHRtd8gQlLjc5rtk4GuQrjk/view?usp=share_link', '_blank')
   }
 
    return  <nav className="pt-2 main-bg" >
