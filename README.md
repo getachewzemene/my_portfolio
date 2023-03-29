@@ -7,10 +7,17 @@
   </a>
 </p>
 
+### yarn install
+install all packages listed in the package.json file
 
+### yarn start
+start the development server and open the site in your default browser
+
+### yarn build
+build the site for production
 
 ### V1 of my portfolio website 
 
 - Framework = Gatsby
 - Animation = react-spring and typewriter-effect
-- UI = TailwindCSS
+- style = TailwindCSS
